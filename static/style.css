@@ -11,15 +11,18 @@
 [data-theme="dark"] {
     --background-color: #1a1a1a;
     --card-shadow: rgba(0, 0, 0, 0.5);
-    .average-mood-section {
-        color: white;
-    }
-    .month-name{
-        color: white;
-    }
-    .month-status{
-        color: white;
-    }
+}
+
+[data-theme="dark"] .average-mood-section {
+    color: white;
+}
+
+[data-theme="dark"] .month-name {
+    color: white;
+}
+
+[data-theme="dark"] .month-status {
+    color: white;
 }
 
 [data-theme="white"] {
